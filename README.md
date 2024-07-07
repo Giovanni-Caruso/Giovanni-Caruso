@@ -1,4 +1,5 @@
-👋 Hi, I’m Giovanni! Mathematician by trade, data geek for passion⚡. 
+👋 Hi, I’m Giovanni!  
+Mathematician by trade, data geek for passion⚡. 
 
 In the world of Data Science, I found the natural evolution of my studies🧬📚.
 
