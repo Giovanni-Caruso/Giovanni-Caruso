@@ -1,9 +1,7 @@
 👋 Hi, I’m Giovanni!  
-Mathematician by trade, data geek for passion⚡. 
+Mathematician by trade, data geek for passion. 
 
-In the world of Data Science, I found the natural evolution of my studies🧬📚.
-
-📌 Mastery of the entire data journey, encompassing automated data collection and preparation, feature engineering, model development and validation, visualization of outputs, and delivery of insightful presentations.  
+📌 Skilled in the entire data lifecycle - from automating data collection and preparation to feature engineering, model development, validation, and delivering actionable insights.  
 📌 Enthusiast about innovation and new technologies.  
 📌 I firmly believe in continuing education.
 
